@@ -2,17 +2,19 @@
 
 A collection of awesome DevEd.
 
-> DevEd is "developer education" and can encompass documentation sites, blogs, tutorials, articles, courses, games, and more.
+> DevEd is "developer education" and can encompass documentation sites, hubs, blogs, tutorials, articles, courses, talks games, and more. Whatever helps educate developers on a technology or product.
 
-# Table of Contents
+# Contents
 
 1. [Academies](#academies)
 1. [Blogs](#blogs)
+1. [Conference Talks](#conference-talks)
 1. [Documentation](#documentation)
 1. [Games](#games)
-1. [Platforms](#platforms)
 1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
+1. [Platforms](#platforms)
 1. [Reference Sites](#reference-sites)
+
 
 # Academies
 
