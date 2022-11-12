@@ -1,2 +1,95 @@
-# awesome-deved
-A collection of all the awesome DevEd I find
+# Awesome DevEd
+
+A collection of awesome DevEd.
+
+> DevEd is "developer education" and can encompass documentation sites, blogs, tutorials, articles, courses, games, and more.
+
+# What counts as "awesome"?
+
+Should have at least one of the following:
+
+- Has demonstrably made an impact on the developer community
+- Features unique and creative features (e.g. games, storytelling, visuals)
+- Showcases effective learning techniques
+- Pushes the boundaries of the practice (i.e. not just "another" article)
+
+
+# Academies
+
+- [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
+- [Redis University](https://university.redis.com/) - Instructor-led courses, certifications. Cited as creating highly-qualified leads.
+- [Learn MongoDB](https://learn.mongodb.com/) - Self-paced courses, get certifications, and learn MongoDB. Cited 15% of their revenue is derived from leads with the University/Learn site as their first-touch.
+- [Storybook Tutorials](https://storybook.js.org/tutorials/) - Self-paced peer-reviewed learning courses built by the Chroma UI team. ([source](https://github.com/chromaui/learnstorybook.com))
+- [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
+
+# Blogs
+
+- [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
+
+# Games
+
+_Thanks to https://github.com/yrgo/awesome-educational-games for tracking games specifically_
+
+## CSS
+
+- [Flexbox Froggy](http://flexboxfroggy.com/) - A game that teaches you Flexbox by positioning a froggy on a lilypad.
+- [Grid Garden](https://cssgridgarden.com/) - A game that teaches you CSS Grid by positioning a growing a carrot garden.
+
+## Editors
+
+- [VIM Adventures](https://vim-adventures.com/) - Free. Learn VIM by playing an adventure game. It's "Zelda meets text editing". Created by Doron Linder.
+
+## Linux
+
+- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
+
+## Databases
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
+
+## JavaScript
+
+- [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
+- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
+
+## Programming
+
+- [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
+- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
+- [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
+- [CodeCombat](https://codecombat.com/) - An engaging coding game for learning programming.
+- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
+- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
+- [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
+- [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
+- [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
+- [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
+- [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
+
+## Security
+
+- [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+
+
+# Learning Platforms
+
+- [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
+- [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
+- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
+- [FreeCodeCamp](https://freecodecamp.org) - Site where anyone can contribute educational content, get certifications, and find jobs.
+- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
+
+# Learning Experience Platforms (LXPs)
+
+- [Appsembler](https://appsembler.com) - Built on [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
+- [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of Open EdX
+
+# Reference Sites
+
+- [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
+- [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
+- [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
