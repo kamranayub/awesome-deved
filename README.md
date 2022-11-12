@@ -4,27 +4,32 @@ A collection of awesome DevEd.
 
 > DevEd is "developer education" and can encompass documentation sites, blogs, tutorials, articles, courses, games, and more.
 
-# What counts as "awesome"?
+# Table of Contents
 
-Should have at least one of the following:
-
-- Has demonstrably made an impact on the developer community
-- Features unique and creative features (e.g. games, storytelling, visuals)
-- Showcases effective learning techniques
-- Pushes the boundaries of the practice (i.e. not just "another" article)
-
+1. [Academies](#academies)
+1. [Blogs](#blogs)
+1. [Documentation](#documentation)
+1. [Games](#games)
+1. [Platforms](#platforms)
+1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
+1. [Reference Sites](#reference-sites)
 
 # Academies
 
 - [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
-- [Redis University](https://university.redis.com/) - Instructor-led courses, certifications. Cited as creating highly-qualified leads.
-- [Learn MongoDB](https://learn.mongodb.com/) - Self-paced courses, get certifications, and learn MongoDB. Cited 15% of their revenue is derived from leads with the University/Learn site as their first-touch.
-- [Storybook Tutorials](https://storybook.js.org/tutorials/) - Self-paced peer-reviewed learning courses built by the Chroma UI team. ([source](https://github.com/chromaui/learnstorybook.com))
 - [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
+- [Learn MongoDB](https://learn.mongodb.com/) - Self-paced courses, get certifications, and learn MongoDB. Cited 15% of their revenue is derived from leads with the University/Learn site as their first-touch.
+- [Redis University](https://university.redis.com/) - Instructor-led courses, certifications. Cited as creating highly-qualified leads.
+- [Storybook Tutorials](https://storybook.js.org/tutorials/) - Self-paced peer-reviewed learning courses built by the Chroma UI team. ([source](https://github.com/chromaui/learnstorybook.com))
 
 # Blogs
 
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
+
+# Documentation
+
+- [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
+- [Stripe Docs](https://stripe.com/docs) - Interactive and example-rich developer documentation for the popular payment platform
 
 # Games
 
@@ -32,12 +37,17 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 ## CSS
 
-- [Flexbox Froggy](http://flexboxfroggy.com/) - A game that teaches you Flexbox by positioning a froggy on a lilypad.
-- [Grid Garden](https://cssgridgarden.com/) - A game that teaches you CSS Grid by positioning a growing a carrot garden.
+- [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
+- [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
+- [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
+- [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 
 ## Editors
 
-- [VIM Adventures](https://vim-adventures.com/) - Free. Learn VIM by playing an adventure game. It's "Zelda meets text editing". Created by Doron Linder.
+- [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
+- [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
+- [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
 
 ## Linux
 
@@ -72,24 +82,25 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 ## Security
 
+- [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of his security course.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
-
-
-# Learning Platforms
-
-- [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
-- [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
-- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
-- [FreeCodeCamp](https://freecodecamp.org) - Site where anyone can contribute educational content, get certifications, and find jobs.
-- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 
 # Learning Experience Platforms (LXPs)
 
 - [Appsembler](https://appsembler.com) - Built on [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
 - [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of Open EdX
 
+# Platforms
+
+- [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
+- [Educative](https://educative.com) - Self-paced developer education platform
+- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
+- [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
+- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
+
 # Reference Sites
 
 - [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 - [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
+- [HTML Reference](https://htmlreference.io) - Complete reference of CSS properties with examples.
