@@ -7,13 +7,14 @@ A collection of awesome DevEd.
 # Contents
 
 1. [Academies](#academies)
-1. [Blogs](#blogs)
-1. [Conference Talks](#conference-talks)
-1. [Documentation](#documentation)
-1. [Games](#games)
-1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
-1. [Platforms](#platforms)
-1. [Reference Sites](#reference-sites)
+2.  [Blogs](#blogs)
+3. [Books](#books)
+4. [Conference Talks](#conference-talks)
+5. [Documentation](#documentation)
+6. [Games](#games)
+7. [Learning Experience Platforms](#learning-experience-platforms-lxps)
+8. [Platforms](#platforms)
+9. [Reference Sites](#reference-sites)
 
 
 # Academies
@@ -27,6 +28,11 @@ A collection of awesome DevEd.
 # Blogs
 
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
+
+# Books
+
+- [Beautiful Racket](https://beautifulracket.com/) - Online book on language-oriented programming by Matthew Butterick
+- [Practical Typography](https://practicaltypography.com/) - Online book on typography by Matthew Butterick
 
 # Documentation
 
