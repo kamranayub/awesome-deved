@@ -31,8 +31,10 @@ A collection of awesome DevEd.
 
 # Books
 
-- [Beautiful Racket](https://beautifulracket.com/) - Online book on language-oriented programming by Matthew Butterick
+- [Beautiful Racket](https://beautifulracket.com/) - Online book on language-oriented programming using Racket by Matthew Butterick
 - [Practical Typography](https://practicaltypography.com/) - Online book on typography by Matthew Butterick
+- [Select Star SQL](https://selectstarsql.com/) - Interactive book that teaches SQL using a Texas Death Row dataset by Zi Chong Kao
+
 
 # Documentation
 
