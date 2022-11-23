@@ -16,7 +16,6 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 1. [Documentation](#documentation)
 1. [Games](#games)
 1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
-1. [Platforms](#platforms)
 1. [Podcasts](#podcasts)
 1. [Reference Sites](#reference-sites)
 1. [Tutorials](#tutorials)
@@ -31,7 +30,9 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 # Blogs
 
+- [GitHub README Project](https://github.com/readme) - The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
+- 
 
 # Books
 
@@ -45,9 +46,21 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 # Courses
 
+## Individual Courses
+
 - [Epic React](https://epicreact.dev/) - Code-along interactive course and workshops that teach React fundamentals. 19 hours of course material plus 10 hours of conversations with React experts.
-- [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
+- [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of [his security course](https://www.pluralsight.com/courses/hack-yourself-first).
+- [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git course that emphasizes branching.
 - [Serverless Visually Explained](https://serverless-visually-explained.com) - See and interact with serverless concepts with animated examples, code snippets, and demos.
+
+## Catalogs
+
+- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
+- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
+- [Educative](https://educative.com) - Self-paced developer education platform
+- [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
+- [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
+- [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
 
 # Documentation
 
@@ -104,21 +117,12 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 ## Security
 
-- [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of his security course.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
 # Learning Experience Platforms (LXPs)
 
 - [Appsembler](https://appsembler.com) - Built on [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
 - [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of Open EdX
-
-# Platforms
-
-- [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
-- [Educative](https://educative.com) - Self-paced developer education platform
-- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
-- [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
-- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 
 # Podcasts
 
@@ -134,5 +138,4 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 # Tutorials
 
-- [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git tutorial that emphasizes branching.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
