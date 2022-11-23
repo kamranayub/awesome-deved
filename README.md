@@ -9,15 +9,17 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 # Contents
 
 1. [Academies](#academies)
-2.  [Blogs](#blogs)
-3. [Books](#books)
-4. [Conference Talks](#conference-talks)
-5. [Documentation](#documentation)
-6. [Games](#games)
-7. [Learning Experience Platforms](#learning-experience-platforms-lxps)
-8. [Platforms](#platforms)
-9. [Reference Sites](#reference-sites)
-
+1. [Blogs](#blogs)
+1. [Books](#books)
+1. [Conference Talks](#conference-talks)
+1. [Courses](#courses)
+1. [Documentation](#documentation)
+1. [Games](#games)
+1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
+1. [Platforms](#platforms)
+1. [Podcasts](#podcasts)
+1. [Reference Sites](#reference-sites)
+1. [Tutorials](#tutorials]
 
 # Academies
 
@@ -37,6 +39,15 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Practical Typography](https://practicaltypography.com/) - Online book on typography by Matthew Butterick
 - [Select Star SQL](https://selectstarsql.com/) - Interactive book that teaches SQL using a Texas Death Row dataset by Zi Chong Kao
 
+# Conference Talks
+
+- [Wat](https://www.destroyallsoftware.com/talks/wat) - Widely shared talk on the quirks of JavaScript and Ruby
+
+# Courses
+
+- [Epic React](https://epicreact.dev/) - Code-along interactive course and workshops that teach React fundamentals. 19 hours of course material plus 10 hours of conversations with React experts.
+- [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
+- [Serverless Visually Explained](https://serverless-visually-explained.com) - See and interact with serverless concepts with animated examples, code snippets, and demos.
 
 # Documentation
 
@@ -73,8 +84,8 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
+- [TwilioQuest](https://twilio.com/quest) - Go on a quest to learn web development how to build a web app with JavaScript and Twilio.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
-- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
 ## Programming
 
@@ -85,7 +96,6 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
-- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
@@ -110,6 +120,10 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
 - [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 
+# Podcasts
+
+- [Corecursive: Coding Stories](https://corecursive.com/) - Like _This American Life_ but for software developers
+
 # Reference Sites
 
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
@@ -117,3 +131,8 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 - [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
 - [StackOverflow](https://stackoverflow.com) - The top Q&A programming site.
+
+# Tutorials
+
+- [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git tutorial that emphasizes branching.
+- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
