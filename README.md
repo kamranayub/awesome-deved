@@ -19,7 +19,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 1. [Platforms](#platforms)
 1. [Podcasts](#podcasts)
 1. [Reference Sites](#reference-sites)
-1. [Tutorials](#tutorials]
+1. [Tutorials](#tutorials)
 
 # Academies
 
