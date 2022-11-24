@@ -18,7 +18,6 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
 1. [Podcasts](#podcasts)
 1. [Reference Sites](#reference-sites)
-1. [Tutorials](#tutorials)
 
 # Academies
 
@@ -46,21 +45,25 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 # Courses
 
-## Individual Courses
+## Single Learning Path
 
 - [Epic React](https://epicreact.dev/) - Code-along interactive course and workshops that teach React fundamentals. 19 hours of course material plus 10 hours of conversations with React experts.
 - [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of [his security course](https://www.pluralsight.com/courses/hack-yourself-first).
 - [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git course that emphasizes branching.
 - [Serverless Visually Explained](https://serverless-visually-explained.com) - See and interact with serverless concepts with animated examples, code snippets, and demos.
+- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
-## Catalogs
+## Multiple Learning Paths
+
+- [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
+- [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
+
+## Course Platforms
 
 - [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 - [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 - [Educative](https://educative.com) - Self-paced developer education platform
-- [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
 - [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
-- [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
 - [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
 
 # Documentation
@@ -136,7 +139,3 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 - [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
 - [StackOverflow](https://stackoverflow.com) - The top Q&A programming site.
-
-# Tutorials
-
-- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
