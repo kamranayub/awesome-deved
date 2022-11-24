@@ -60,6 +60,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Educative](https://educative.com) - Self-paced developer education platform
 - [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
 - [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
+- [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
 - [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
 
 # Documentation
