@@ -26,6 +26,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Learn MongoDB](https://learn.mongodb.com/) - Self-paced courses, get certifications, and learn MongoDB. Cited 15% of their revenue is derived from leads with the University/Learn site as their first-touch.
 - [Redis University](https://university.redis.com/) - Instructor-led courses, certifications. Cited as creating highly-qualified leads.
 - [Storybook Tutorials](https://storybook.js.org/tutorials/) - Self-paced peer-reviewed learning courses built by the Chroma UI team. ([source](https://github.com/chromaui/learnstorybook.com))
+- [Twilio's Segment Academy](https://segment.com/academy/) - Web-based lessons that you can also get dripped via email. Example of a lead magnet.
 
 # Blogs
 
@@ -70,6 +71,8 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 - [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
 - [Stripe Docs](https://stripe.com/docs) - Interactive and example-rich developer documentation for the popular payment platform
+- [Twilio Docs](https://www.twilio.com/docs) - Interactive and example-rich developer documentation for the popular communication platform. (Also see: [Games > JavaScript > TwilioQuest](#javascript))
+
 
 # Games
 
