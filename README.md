@@ -73,6 +73,11 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Stripe Docs](https://stripe.com/docs) - Interactive and example-rich developer documentation for the popular payment platform
 - [Twilio Docs](https://www.twilio.com/docs) - Interactive and example-rich developer documentation for the popular communication platform. (Also see: [Games > JavaScript > TwilioQuest](#javascript))
 
+## Tools
+
+- [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive. It provides out-of-the-box documentation features but can be used to create any kind of site (personal website, product, blog, marketing landing pages, etc).
+- [Orchid](https://orchid.run/) - Orchid lets you publish all your wikis, changelogs, blogs, code comments and more. We'll even deploy it for you too, so you can stop fussing over tooling and focus on your project.
+- [Smooth DOC](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects. Smooth DOC makes documentation easy.
 
 # Games
 
