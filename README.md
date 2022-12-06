@@ -52,6 +52,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of [his security course](https://www.pluralsight.com/courses/hack-yourself-first).
 - [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git course that emphasizes branching.
 - [Serverless Visually Explained](https://serverless-visually-explained.com) - See and interact with serverless concepts with animated examples, code snippets, and demos.
+- [TypeScript Training](https://www.typescript-training.com/) - Interactive and self-paced course on learning TypeScript with annotated code snippets and formatting specifically designed for the TS compiler.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
 ## Multiple Learning Paths
