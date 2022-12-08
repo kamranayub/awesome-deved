@@ -4,7 +4,7 @@ A collection of awesome DevEd.
 
 > DevEd is "developer education" and can encompass documentation sites, hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
 
-Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_](https://kamranayub.com/umami/) 🌶.
+Curated by [Kamran Ayub](https://kamranayub.com/?ref=awesome-deved) to showcase DevEd with [_umami_](https://kamranayub.com/umami/) 🌶.
 
 # Contents
 
