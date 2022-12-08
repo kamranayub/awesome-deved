@@ -18,6 +18,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
 1. [Podcasts](#podcasts)
 1. [Reference Sites](#reference-sites)
+1. [Visual Essays](#visual-essays)
 
 # Academies
 
@@ -30,6 +31,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 # Blogs
 
+- [Amelia Wattenberger](https://wattenberger.com/blog) - Amelia is a data visualization and experience engineer with a blog that features awesome interactive samples and visual essays
 - [GitHub README Project](https://github.com/readme) - The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
 - [Twilio](https://www.twilio.com/blog) - Over 2,000+ tutorials since 2008 on ways to integrate and use Twilio products.
@@ -147,3 +149,16 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 - [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
 - [StackOverflow](https://stackoverflow.com) - The top Q&A programming site.
+
+# Visual Essays
+
+- [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) - by Maxime Heckel. Features interactive animations that showcase different types of curves.
+- [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) - by Bret Victor. Takes an example of designing a control system for a simple car simulation, and references it throughout the essay with visuals and interactive widgets accompanying the narrative.
+- [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer) - by Nanda Syahrasyad. Features a custom widget to step through the tokenization process, which displays interim results.
+- [The CSS Cascade](https://wattenberger.com/blog/css-cascade) - by Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
+- [The Pudding](https://pudding.cool/) - Data viz magazine featuring collections of visual essays
+- [Which Blend Mode](https://www.ctnicholas.dev/articles/which-blend-mode) - by Chris Nicholas. Featuring interactive examples to show the varying results of different blend modes.
+
+## Collections
+
+- [Worrydream](https://worrydream.com) - Bret Victor. Unique web-based site design, visual essays, and interactive demos.
