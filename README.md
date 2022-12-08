@@ -44,7 +44,8 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 # Conference Talks
 
-- [Wat](https://www.destroyallsoftware.com/talks/wat) - Widely shared talk on the quirks of JavaScript and Ruby
+- [Stop Drawing Dead Fish](https://www.youtube.com/watch?v=ZfytHvgHybA) - An incredible talk by Bret Victor about the essence of digital art.
+- [Wat](https://www.destroyallsoftware.com/talks/wat) - Widely shared talk on the quirks of JavaScript and Ruby by Gary Bernhardt.
 
 # Courses
 
@@ -80,8 +81,11 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 
 ## Tools
 
-- [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive. It provides out-of-the-box documentation features but can be used to create any kind of site (personal website, product, blog, marketing landing pages, etc).
+- [Code Hike](https://codehike.org/) - Easily build code tutorials with MDX and React.
+- [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
 - [Smooth DOC](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects. Smooth DOC makes documentation easy.
+- [Shiki](https://github.com/shikijs/shiki) - Embed code samples with VSCode-powered syntax highlighting.
+- [Shiki Twoslash](https://shikijs.github.io/twoslash/) - The power of Shiki, plus TypeScript compiler annotations.
 
 # Games
 
@@ -150,6 +154,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
 - [HTML Reference](https://htmlreference.io) - Complete reference of CSS properties with examples.
+- [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - Turns static W3C spec of CSS Flexbox Level 1 into interactive examples.
 
 ## Wikis/Community Sites
 
