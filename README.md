@@ -2,7 +2,7 @@
 
 A collection of awesome DevEd.
 
-> DevEd is "developer education" and can encompass documentation sites, hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, platforms, and more. Whatever helps educate developers on a technology or product.
+> DevEd is "developer education" and can encompass documentation sites, hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
 
 Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_](https://kamranayub.com/umami/).
 
@@ -15,7 +15,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 1. [Courses](#courses)
 1. [Documentation](#documentation)
 1. [Games](#games)
-1. [Learning Experience Platforms](#learning-experience-platforms-lxps)
+1. [Learning Experience Platforms (LXPs)](#learning-experience-platforms-lxps)
 1. [Podcasts](#podcasts)
 1. [Reference Sites](#reference-sites)
 1. [Visual Essays](#visual-essays)
@@ -54,6 +54,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 - [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of [his security course](https://www.pluralsight.com/courses/hack-yourself-first).
 - [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git course that emphasizes branching.
 - [Serverless Visually Explained](https://serverless-visually-explained.com) - See and interact with serverless concepts with animated examples, code snippets, and demos.
+- [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Interactive step-by-step tutorial to learn Svelte
 - [TypeScript Training](https://www.typescript-training.com/) - Interactive and self-paced course on learning TypeScript with annotated code snippets and formatting specifically designed for the TS compiler.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
@@ -73,6 +74,7 @@ Curated by [Kamran Ayub](https://kamranayub.com) to showcase DevEd with [_umami_
 # Documentation
 
 - [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
+- [Nivo](https://nivo.rocks/) - D3 viz library with interactive visualizations as the docs
 - [Stripe Docs](https://stripe.com/docs) - Interactive and example-rich developer documentation for the popular payment platform
 - [Twilio Docs](https://www.twilio.com/docs) - Interactive and example-rich developer documentation for the popular communication platform. (Also see: [Games > JavaScript > TwilioQuest](#javascript))
 
@@ -144,21 +146,39 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 # Reference Sites
 
+## Microsites
+
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
 - [HTML Reference](https://htmlreference.io) - Complete reference of CSS properties with examples.
+
+## Wikis/Community Sites
+
 - [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network. Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
-- [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since the 1992.
+- [Microsoft Docs](https://docs.microsoft.com) - Formerly MSDN. Documenting the Microsoft (and surrounding) ecosystems since 1992.
 - [StackOverflow](https://stackoverflow.com) - The top Q&A programming site.
 
 # Visual Essays
 
-- [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) - by Maxime Heckel. Features interactive animations that showcase different types of curves.
-- [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) - by Bret Victor. Takes an example of designing a control system for a simple car simulation, and references it throughout the essay with visuals and interactive widgets accompanying the narrative.
-- [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer) - by Nanda Syahrasyad. Features a custom widget to step through the tokenization process, which displays interim results.
-- [The CSS Cascade](https://wattenberger.com/blog/css-cascade) - by Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
-- [The Pudding](https://pudding.cool/) - Data viz magazine featuring collections of visual essays
-- [Which Blend Mode](https://www.ctnicholas.dev/articles/which-blend-mode) - by Chris Nicholas. Featuring interactive examples to show the varying results of different blend modes.
+## Individual Essays
+
+- [Advanced animation patterns with Framer Motion](https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/) - Maxime Heckel
+- [Build your own React](https://pomb.us/build-your-own-react/) - Rodrigo Pombo
+- [CSS Cascade](https://wattenberger.com/blog/css-cascade) - Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
+- [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) - Maxime Heckel. Features interactive animations that showcase different types of curves.
+- [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight) - Chris Nicholas
+- [How do arrays work?](https://nan.fyi/how-arrays-work) - Nanda
+- [How to remember things](https://ncase.me/remember/) - Nicky Case
+- [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Bartosz Ciechanowski
+- [Making things move](https://varun.ca/torsions/) - Varun Vachhar
+- [Moving along a curved path in CSS with layered animation](https://tobiasahlin.com/blog/curved-path-animations-in-css/) - Tobias Ahlin
+- [Noise in Creative Coding](https://varun.ca/noise/) - Varun Vachhar
+- [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer) - Nanda Syahrasyad. Features a custom widget to step through the tokenization process, which displays interim results.
+- [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) - Bret Victor. Takes an example of designing a control system for a simple car simulation, and references it throughout the essay with visuals and interactive widgets accompanying the narrative.
+- [Which Blend Mode](https://www.ctnicholas.dev/articles/which-blend-mode) - Chris Nicholas. Featuring interactive examples to show the varying results of different blend modes.
 
 ## Collections
 
+- [Amelia Wattenberger](https://wattenberger.com/blog) - Amelia is a data visualization and experience engineer with a blog that features awesome interactive samples and visual essays.
+- [Explorable Explanations](https://explorabl.es/) - Combining learning and play, the site is a hub of interactive and visual essays around topics, not only limited to data viz and programming.
+- [Pudding.cool](https://pudding.cool) - Data viz magazine featuring many different visual essays.
 - [Worrydream](https://worrydream.com) - Bret Victor. Unique web-based site design, visual essays, and interactive demos.
