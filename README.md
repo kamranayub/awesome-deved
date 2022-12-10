@@ -72,6 +72,11 @@ Curated by [Kamran Ayub](https://kamranayub.com/?ref=awesome-deved) to showcase 
 - [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
 - [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
 
+## Course Creation
+
+- [CourseMaker](https://coursemaker.org/) - SaaS product for creating, hosting, and selling technical courses
+- [CourseMaker/gatsby-theme-coursemaker](https://github.com/CourseMaker/gatsby-theme-coursemaker) - Gatsby.js Theme from CourseMaker designed for individual creators that sell courses
+
 # Documentation
 
 - [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
