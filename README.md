@@ -12,7 +12,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 
 # Contents
 
-1. [Academies & Universities](#academies-unversities)
+1. [Academies & Universities](#academies--unversities)
 1. [Blogs](#blogs)
 1. [Books](#books)
 1. [Conference Talks](#conference-talks)
