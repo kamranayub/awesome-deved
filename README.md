@@ -80,6 +80,7 @@ Curated by [Kamran Ayub](https://kamranayub.com/?ref=awesome-deved) to showcase 
 # Documentation
 
 - [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
+- [Medusa](https://docs.medusajs.com/) - Redesigned and treated as a product (see
 - [Nivo](https://nivo.rocks/) - D3 viz library with interactive visualizations as the docs
 - [Stripe Docs](https://stripe.com/docs) - Interactive and example-rich developer documentation for the popular payment platform
 - [Twilio Docs](https://www.twilio.com/docs) - Interactive and example-rich developer documentation for the popular communication platform. (Also see: [Games > JavaScript > TwilioQuest](#javascript))
@@ -160,6 +161,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
 - [HTML Reference](https://htmlreference.io) - Complete reference of CSS properties with examples.
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - Turns static W3C spec of CSS Flexbox Level 1 into interactive examples.
+- [Microfrontend.dev](https://microfrontend.dev/) - Learn about the microfrontend architecture pattern and practices, and when / when not to consider it. 
 
 ## Wikis/Community Sites
 
