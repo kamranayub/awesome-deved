@@ -1,10 +1,14 @@
-# Awesome DevEd
+# Awesome DevEd Pantry
 
 A collection of awesome DevEd.
 
-> DevEd is "developer education" and can encompass documentation sites, hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
+> DevEd is "developer education" and as part of DevRel can encompass documentation sites, community hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, universities/academies, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
 
-Curated by [Kamran Ayub](https://kamranayub.com/?ref=awesome-deved) to showcase DevEd with [_umami_](https://kamranayub.com/umami/?ref=awesome-deved-umami) 🌶.
+Curated through the [DevEd Test Kitchen](https://devedtestkitchen.com) by "Chef" Kamran to spotlight and showcase the awesome DevEd everyone is cooking up around us.
+
+# Contributing
+
+Donations to the pantry are welcome. "Awesome" is subjective but in general, awesome DevEd is typically "effortful" (not "just" a tutorial/article/how-to), unique in nature, has had evidence-backed impact, or pushes the boundaries of what it means to be "content" such as incorporating gamification, interactivity, or creative production techniques. This is what I refer to as "[umami-flavored](https://kamranayub.com/umami?ref=awesome-deved)" content that leaves a really good taste in your mouth. Notably it does _not_ need to depend on the creator being "known" or considered a "celebrity chef". Anyone can cook Awesome DevEd.
 
 # Contents
 
