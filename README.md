@@ -26,6 +26,9 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 
 # Academies & Universities
 
+Part of "Higher DevEd," these are platforms that train and upskill developers (mostly external)
+
+- [LaunchDarkly Academy](https://academy.launchdarkly.com) - LaunchDarkly's academy with a solid space theme featuring self-paced learning and virtual labs/workshops
 - [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
 - [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
 - [Learn MongoDB](https://learn.mongodb.com/) - Self-paced courses, get certifications, and learn MongoDB. Cited 15% of their revenue is derived from leads with the University/Learn site as their first-touch.
@@ -151,8 +154,10 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 # Learning Experience Platforms (LXPs)
 
-- [Appsembler](https://appsembler.com) - Built on [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
-- [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of Open EdX
+> LXPs are "next-gen" Learning Management Systems (LMS) that are designed learner-first (designed for a better learning experience) instead of author-first (ease of authoring).
+
+- [Appsembler](https://appsembler.com) - B2B SaaS LXP built on top of [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
+- [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of [Open EdX](https://openedx.org)
 
 # Podcasts
 
