@@ -51,6 +51,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 # Conference Talks
 
+- [Drawing the Invisible: React Explained in 5 Visual Metaphors](https://maggieappleton.com/reactpotato) - An amazing visual talk by Maggie Appleton that explains React just like it says.
 - [Stop Drawing Dead Fish](https://www.youtube.com/watch?v=ZfytHvgHybA) - An incredible talk by Bret Victor about the essence of digital art.
 - [Wat](https://www.destroyallsoftware.com/talks/wat) - Widely shared talk on the quirks of JavaScript and Ruby by Gary Bernhardt.
 
@@ -170,6 +171,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [CSS Reference](https://cssreference.io) - Complete reference of CSS properties with examples.
 - [HTML Reference](https://htmlreference.io) - Complete reference of CSS properties with examples.
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - Turns static W3C spec of CSS Flexbox Level 1 into interactive examples.
+- [Illustrated.dev](https://illustrated.dev/) - Illustrated explanations of web development, technology & a little bit of anthropology.
 - [Microfrontend.dev](https://microfrontend.dev/) - Learn about the microfrontend architecture pattern and practices, and when / when not to consider it. 
 
 ## Wikis/Community Sites
@@ -201,5 +203,6 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Amelia Wattenberger](https://wattenberger.com/blog) - Amelia is a data visualization and experience engineer with a blog that features awesome interactive samples and visual essays.
 - [Explorable Explanations](https://explorabl.es/) - Combining learning and play, the site is a hub of interactive and visual essays around topics, not only limited to data viz and programming.
+- [Maggie Appleton](https://maggieappleton.com/) - Makes visual essays about UX, programming, and anthropology.
 - [Pudding.cool](https://pudding.cool) - Data viz magazine featuring many different visual essays.
 - [Worrydream](https://worrydream.com) - Bret Victor. Unique web-based site design, visual essays, and interactive demos.
