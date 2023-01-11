@@ -12,7 +12,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 
 # Contents
 
-1. [Academies](#academies)
+1. [Academies & Universities](#academies-unversities)
 1. [Blogs](#blogs)
 1. [Books](#books)
 1. [Conference Talks](#conference-talks)
@@ -24,7 +24,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 1. [Reference Sites](#reference-sites)
 1. [Visual Essays](#visual-essays)
 
-# Academies
+# Academies & Universities
 
 - [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
 - [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
