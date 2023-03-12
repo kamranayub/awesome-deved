@@ -87,6 +87,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 # Documentation
 
+- [Hashicorp Docs](https://developer.hashicorp.com) - All-in-one dev hub w/ built-in bookmarks, progress, self-paced tutorials with videos, certifications, and more.
 - [React Docs (beta)](https://beta.reactjs.org/learn) - Includes interactive labs and challenges
 - [Medusa](https://docs.medusajs.com/) - Redesigned and treated as a product (see
 - [Nivo](https://nivo.rocks/) - D3 viz library with interactive visualizations as the docs
