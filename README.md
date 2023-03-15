@@ -29,6 +29,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 Part of "Higher DevEd," these are platforms that train and upskill developers (mostly external)
 
 - [Hashicorp Developer](https://developer.hashicorp.com) - Includes courses and certifications
+- [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn languages, skills, build apps, and more with over 30+ tracks and 2,000+ tech topics through their platform [Hyperskill](https://hyperskill.org/tracks)
 - [LaunchDarkly Academy](https://academy.launchdarkly.com) - LaunchDarkly's academy with a solid space theme featuring self-paced learning and virtual labs/workshops
 - [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
 - [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
