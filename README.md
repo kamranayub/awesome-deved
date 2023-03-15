@@ -30,6 +30,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 - [Hashicorp Developer](https://developer.hashicorp.com) - Includes courses and certifications
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn languages, skills, build apps, and more with over 30+ tracks and 2,000+ tech topics through their platform [Hyperskill](https://hyperskill.org/tracks)
+- [JFrog Academy](https://academy.jfrog.com/) - Training on using JFrog products, focused on upskilling developers using JFrog products
 - [LaunchDarkly Academy](https://academy.launchdarkly.com) - LaunchDarkly's academy with a solid space theme featuring self-paced learning and virtual labs/workshops
 - [Learn Chef](https://learn.chef.io/) - Chef's learning site, cited as their top lead generator
 - [Learn Cypress](https://learn.cypress.io/) - Custom learning site built with Next.js by the Cypress team ([source](https://github.com/cypress-io/cypress-realworld-testing))
