@@ -121,6 +121,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 ## Developer Tools
 
+- [Ably Serverless Websockets Quest](https://quest.ably.dev/) - Learn Serverless Websockets through an ADND multiplayer game ([source](https://github.com/ably-labs/serverless-websockets-quest))
 - [Ably Tower Defense](https://github.com/ably-labs/ably-tower-defense/) - Demo showing Ably's real-time API in action with a multiplayer Tower Defense game
 
 ## Editors
