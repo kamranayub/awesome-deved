@@ -28,6 +28,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 
 Part of "Higher DevEd," these are platforms that train and upskill developers (mostly external)
 
+- [Algolia Academy](https://academy.algolia.com/trainings) - Training, certifications, live events covering Algolia and integrating with different use cases like front-end, search, and UX
 - [Hashicorp Developer](https://developer.hashicorp.com) - Includes courses and certifications
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn languages, skills, build apps, and more with over 30+ tracks and 2,000+ tech topics through their platform [Hyperskill](https://hyperskill.org/tracks)
 - [JFrog Academy](https://academy.jfrog.com/) - Training on using JFrog products, focused on upskilling developers using JFrog products
