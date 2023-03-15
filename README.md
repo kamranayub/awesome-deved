@@ -122,6 +122,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 ## Developer Tools
 
 - [Ably Serverless Websockets Quest](https://quest.ably.dev/) - Learn Serverless Websockets through an ADND multiplayer game ([source](https://github.com/ably-labs/serverless-websockets-quest))
+- [Ably Space Invaders](https://space-invaders.ably.dev/) - Multiplayer Space Invaders game built with Phaser and Ably APIs. ([source](https://github.com/ably-labs/realtime-multiplayer-space-invaders))
 - [Ably Tower Defense](https://github.com/ably-labs/ably-tower-defense/) - Demo showing Ably's real-time API in action with a multiplayer Tower Defense game
 
 ## Editors
