@@ -168,7 +168,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 ## Web3
 
-- [CryptoZombies](https://cryptozombies.io/) - Learn Solidify and Ethereum blockchain development by creating learning games
+- [CryptoZombies](https://cryptozombies.io/) - Learn Solidity and Ethereum blockchain development by creating learning games
 - [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
 
 # Learning Experience Platforms (LXPs)
