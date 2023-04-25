@@ -73,6 +73,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 ## Multiple Learning Paths
 
+- [CryptoZombies](https://cryptozombies.io/) - Learn Solidify and Ethereum blockchain development by creating learning games
 - [Execute Program](https://www.executeprogram.com/) - Interactive courses on TypeScript, Modern JavaScript, SQL, regular expressions, and more. Each course is made up of hundreds of interactive code examples running live in your browser.
 - [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
 
@@ -164,6 +165,11 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 ## Security
 
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+
+## Web3
+
+- [CryptoZombies](https://cryptozombies.io/) - Learn Solidify and Ethereum blockchain development by creating learning games
+- [NodeGuardians](https://nodeguardians.io) - Learn web3 in a gamified RPG-like experience with campaigns, quests, skill trees, and character management
 
 # Learning Experience Platforms (LXPs)
 
