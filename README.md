@@ -84,11 +84,13 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Educative](https://educative.com) - Self-paced developer education platform
 - [FreeCodeCamp](https://freecodecamp.org) - Non-profit site where anyone can contribute educational content, get certifications, and find jobs.
 - [Pluralsight](https://pluralsight.com) - The professional tech upskilling platform
+- [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
 
 ## Course Creation
 
 - [CourseMaker](https://coursemaker.org/) - SaaS product for creating, hosting, and selling technical courses
 - [CourseMaker/gatsby-theme-coursemaker](https://github.com/CourseMaker/gatsby-theme-coursemaker) - Gatsby.js Theme from CourseMaker designed for individual creators that sell courses
+- [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
 
 # Documentation
 
