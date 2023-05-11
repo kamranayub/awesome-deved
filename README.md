@@ -106,6 +106,8 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Smooth DOC](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects. Smooth DOC makes documentation easy.
 - [Shiki](https://github.com/shikijs/shiki) - Embed code samples with VSCode-powered syntax highlighting.
 - [Shiki Twoslash](https://shikijs.github.io/twoslash/) - The power of Shiki, plus TypeScript compiler annotations.
+- [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
+
 
 # Games
 
@@ -125,6 +127,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [Ably Serverless Websockets Quest](https://quest.ably.dev/) - Learn Serverless Websockets through an ADND multiplayer game ([source](https://github.com/ably-labs/serverless-websockets-quest))
 - [Ably Space Invaders](https://space-invaders.ably.dev/) - Multiplayer Space Invaders game built with Phaser and Ably APIs. ([source](https://github.com/ably-labs/realtime-multiplayer-space-invaders))
 - [Ably Tower Defense](https://github.com/ably-labs/ably-tower-defense/) - Demo showing Ably's real-time API in action with a multiplayer Tower Defense game
+- [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
 
 ## Editors
 
@@ -177,6 +180,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Appsembler](https://appsembler.com) - B2B SaaS LXP built on top of [Open EdX](https://openedx.org), designed for developer education (powers Chef, Redis, etc.)
 - [Tutor](https://docs.tutor.overhang.io/) - Self-managed Docker version of [Open EdX](https://openedx.org)
+- [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
 
 # Podcasts
 
