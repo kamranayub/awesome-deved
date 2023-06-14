@@ -220,6 +220,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [Moving along a curved path in CSS with layered animation](https://tobiasahlin.com/blog/curved-path-animations-in-css/) - Tobias Ahlin
 - [Noise in Creative Coding](https://varun.ca/noise/) - Varun Vachhar
 - [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer) - Nanda Syahrasyad. Features a custom widget to step through the tokenization process, which displays interim results.
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - Jake Archibald. Features an animated step-by-step diagram that got tons of love for in the comments. Not a "full" dataviz essay but interactive visual is umami.
 - [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) - Bret Victor. Takes an example of designing a control system for a simple car simulation, and references it throughout the essay with visuals and interactive widgets accompanying the narrative.
 - [Which Blend Mode](https://www.ctnicholas.dev/articles/which-blend-mode) - Chris Nicholas. Featuring interactive examples to show the varying results of different blend modes.
 
