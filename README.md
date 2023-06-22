@@ -21,6 +21,7 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 1. [Games](#games)
 1. [Learning Experience Platforms (LXPs)](#learning-experience-platforms-lxps)
 1. [Podcasts](#podcasts)
+1. [Video Channels](#video-channels)
 1. [Reference Sites](#reference-sites)
 1. [Visual Essays](#visual-essays)
 
@@ -52,17 +53,21 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Beautiful Racket](https://beautifulracket.com/) - Online book on language-oriented programming using Racket by Matthew Butterick
 - [Practical Typography](https://practicaltypography.com/) - Online book on typography by Matthew Butterick
 - [Select Star SQL](https://selectstarsql.com/) - Interactive book that teaches SQL using a Texas Death Row dataset by Zi Chong Kao
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - A timeless guide that equips software developers with practical techniques, tools, and principles.
 
 # Conference Talks
 
 - [Drawing the Invisible: React Explained in 5 Visual Metaphors](https://maggieappleton.com/reactpotato) - An amazing visual talk by Maggie Appleton that explains React just like it says.
+- [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) - Insights from Scott Hanselman on how to focus on value and stop working on things that are unimportant.
 - [Stop Drawing Dead Fish](https://www.youtube.com/watch?v=ZfytHvgHybA) - An incredible talk by Bret Victor about the essence of digital art.
 - [Wat](https://www.destroyallsoftware.com/talks/wat) - Widely shared talk on the quirks of JavaScript and Ruby by Gary Bernhardt.
+- [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) - A great dive into imposter syndrome and ways to deal with it.
 
 # Courses
 
 ## Single Learning Path
 
+- [DashingD3js](https://www.dashingd3js.com/d3-tutorial) - A nuts and bolts explanation of the D3 animation library.
 - [Epic React](https://epicreact.dev/) - Code-along interactive course and workshops that teach React fundamentals. 19 hours of course material plus 10 hours of conversations with React experts.
 - [Hack Yourself First](https://hack-yourself-first.com) - A website made by Troy Hunt that showcases 50+ sloppy security practices as part of [his security course](https://www.pluralsight.com/courses/hack-yourself-first).
 - [Learn Git Branching](https://learngitbranching.js.org/) - Gamified interactive Git course that emphasizes branching.
@@ -187,6 +192,11 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 # Podcasts
 
 - [Corecursive: Coding Stories](https://corecursive.com/) - Like _This American Life_ but for software developers
+- [The Rabbit Hole](https://therabbithole.libsyn.com/) - A lighthearted podcast that takes a pragmatic look at trends in software development.
+
+# Video Channels
+
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - Short videos on a wide variety of programming topics, complete with plenty of tongue-in-cheek humor.
 
 # Reference Sites
 
@@ -210,6 +220,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Advanced animation patterns with Framer Motion](https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/) - Maxime Heckel
 - [Build your own React](https://pomb.us/build-your-own-react/) - Rodrigo Pombo
+- [Care About What You Build ](https://brandonhilkert.com/blog/care-about-what-you-build/) - an introspective article on loving software development even when you may not be working on the most glamorous product.
 - [CSS Cascade](https://wattenberger.com/blog/css-cascade) - Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
 - [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) - Maxime Heckel. Features interactive animations that showcase different types of curves.
 - [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight) - Chris Nicholas
