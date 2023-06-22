@@ -21,8 +21,8 @@ Donations to the pantry are welcome. "Awesome" is subjective but in general, awe
 1. [Games](#games)
 1. [Learning Experience Platforms (LXPs)](#learning-experience-platforms-lxps)
 1. [Podcasts](#podcasts)
-1. [Video Channels](#video-channels)
 1. [Reference Sites](#reference-sites)
+1. [Video Channels](#video-channels)
 1. [Visual Essays](#visual-essays)
 
 # Academies & Universities
@@ -220,7 +220,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Advanced animation patterns with Framer Motion](https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/) - Maxime Heckel
 - [Build your own React](https://pomb.us/build-your-own-react/) - Rodrigo Pombo
-- [Care About What You Build ](https://brandonhilkert.com/blog/care-about-what-you-build/) - an introspective article on loving software development even when you may not be working on the most glamorous product.
+- [Care About What You Build](https://brandonhilkert.com/blog/care-about-what-you-build/) - Brandon Hilkert. An introspective article on loving software development even when you may not be working on the most glamorous product.
 - [CSS Cascade](https://wattenberger.com/blog/css-cascade) - Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
 - [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) - Maxime Heckel. Features interactive animations that showcase different types of curves.
 - [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight) - Chris Nicholas
