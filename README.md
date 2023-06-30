@@ -113,6 +113,9 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
 - [GitBook](https://www.gitbook.com/) - Free + Per User Pricing. Documentation platform/framework supporting CMS-style editing and hosting of docs and technical content.
 - [Mintlify](https://mintlify.com/) - Free + Flat Monthly Pricing. Documentation platform/framework supporting MDX-based docs, GPT-based search, component library, and more.
+- [Readme](https://readme.com) - Free + Per Project Pricing. Developer hub platform to host technical documentation with versioning, playgrounds, usage analytics, forums, and interactive APIs.
+- [Redoc](https://redocly.com/redoc/) - Open source version of Redocly to host API documentation with interactive playgrounds.
+- [Redocly](https://redocly.com/) - Free + Flat Monthly Pricing. Developer hub platform to host API documentation with interactive playgrounds.
 - [Smooth DOC](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects. Smooth DOC makes documentation easy.
 - [Shiki](https://github.com/shikijs/shiki) - Embed code samples with VSCode-powered syntax highlighting.
 - [Shiki Twoslash](https://shikijs.github.io/twoslash/) - The power of Shiki, plus TypeScript compiler annotations.
