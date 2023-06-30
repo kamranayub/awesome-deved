@@ -109,6 +109,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 ## Tools
 
 - [Code Hike](https://codehike.org/) - Easily build code tutorials with MDX and React.
+- [Diátaxis](https://diataxis.fr/) - Originally developed by Daniele Procida at Divio, this is a unified system for developing technical documentation.
 - [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
 - [GitBook](https://www.gitbook.com/) - Free + Per User Pricing. Documentation platform/framework supporting CMS-style editing and hosting of docs and technical content.
 - [Mintlify](https://mintlify.com/) - Free + Flat Monthly Pricing. Documentation platform/framework supporting MDX-based docs, GPT-based search, component library, and more.
