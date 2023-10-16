@@ -110,14 +110,14 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 - [Code Hike](https://codehike.org/) - Easily build code tutorials with MDX and React.
 - [Diátaxis](https://diataxis.fr/) - Originally developed by Daniele Procida at Divio, this is a unified system for developing technical documentation.
-- [Docusaurus](https://docusaurus.io/) - Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
-- [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - A starter for Gatsby.js that matches the style of GitBook and supports a bunch of documentation-related features.
+- [Docusaurus](https://docusaurus.io/) - Open source. Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
+- [Docz](https://github.com/doczjs/docz) - Open source. Documentation site starter for Gatsby.js that offers built-in features to make writing documentation sites easier.
+- [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Open source. A starter for Gatsby.js that matches the style of GitBook and supports a bunch of documentation-related features.
 - [GitBook](https://www.gitbook.com/) - Free + Per User Pricing. Documentation platform/framework supporting CMS-style editing and hosting of docs and technical content.
 - [Mintlify](https://mintlify.com/) - Free + Flat Monthly Pricing. Documentation platform/framework supporting MDX-based docs, GPT-based search, component library, and more.
 - [Readme](https://readme.com) - Free + Per Project Pricing. Developer hub platform to host technical documentation with versioning, playgrounds, usage analytics, forums, and interactive APIs.
-- [Redoc](https://redocly.com/redoc/) - Open source version of Redocly to host API documentation with interactive playgrounds.
+- [Redoc](https://redocly.com/redoc/) - Open source. Alternative to Redocly to host API documentation with interactive playgrounds.
 - [Redocly](https://redocly.com/) - Free + Flat Monthly Pricing. Developer hub platform to host API documentation with interactive playgrounds.
-- [Smooth DOC](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects. Smooth DOC makes documentation easy.
 - [Shiki](https://github.com/shikijs/shiki) - Embed code samples with VSCode-powered syntax highlighting.
 - [Shiki Twoslash](https://shikijs.github.io/twoslash/) - The power of Shiki, plus TypeScript compiler annotations.
 - [Wilco](https://trywilco.com) - Gamified hands-on simulator for teaching developers how to use dev tools and products in a real-world-like environment using Quests
