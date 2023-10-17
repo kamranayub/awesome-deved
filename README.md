@@ -111,6 +111,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Code Hike](https://codehike.org/) - Easily build code tutorials with MDX and React.
 - [Diátaxis](https://diataxis.fr/) - Originally developed by Daniele Procida at Divio, this is a unified system for developing technical documentation.
 - [Docusaurus](https://docusaurus.io/) - Open source. Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
+- [Docfx](https://dotnet.github.io/docfx/) - Open source. Documentation and static site generator for .NET API projects.
 - [Docz](https://github.com/doczjs/docz) - Open source. Documentation site starter for Gatsby.js that offers built-in features to make writing documentation sites easier.
 - [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Open source. A starter for Gatsby.js that matches the style of GitBook and supports a bunch of documentation-related features.
 - [GitBook](https://www.gitbook.com/) - Free + Per User Pricing. Documentation platform/framework supporting CMS-style editing and hosting of docs and technical content.
