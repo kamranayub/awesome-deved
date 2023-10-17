@@ -108,6 +108,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 
 ## Tools
 
+- [Alphadoc.io](https://alphadoc.io/) - Platform. Build interactive documentation using visual tools featuring sequence diagrams and visual stories. Primarily for OpenAPI-based projects and SDKs.
 - [Code Hike](https://codehike.org/) - Easily build code tutorials with MDX and React.
 - [Diátaxis](https://diataxis.fr/) - Originally developed by Daniele Procida at Divio, this is a unified system for developing technical documentation.
 - [Docusaurus](https://docusaurus.io/) - Open source. Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive.
