@@ -1,14 +1,14 @@
-# Awesome DevEd Pantry
+# Awesome DevEd
 
 A collection of awesome DevEd.
 
 > DevEd is "developer education" and as part of DevRel can encompass documentation sites, community hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, universities/academies, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
 
-Curated through the [DevEd Test Kitchen](https://devedtestkitchen.com) by "Chef" Kamran to spotlight and showcase the awesome DevEd everyone is cooking up around us.
+Curated by [Kamran Ayub](https://kamranayub.com) to spotlight and showcase the awesome DevEd everyone is creating.
 
 # Contributing
 
-Donations to the pantry are welcome. "Awesome" is subjective but in general, awesome DevEd is typically "effortful" (not "just" a tutorial/article/how-to), unique in nature, has had evidence-backed impact, or pushes the boundaries of what it means to be "content" such as incorporating gamification, interactivity, or creative production techniques. This is what I refer to as "[umami-flavored](https://kamranayub.com/umami?ref=awesome-deved)" content that leaves a really good taste in your mouth. Notably it does _not_ need to depend on the creator being "known" or considered a "celebrity chef". Anyone can cook Awesome DevEd.
+Contributions are welcome. "Awesome" is subjective but in general, awesome DevEd is typically "effortful" (not "just" a tutorial/article/how-to), unique in nature, has had evidence-backed impact, or pushes the boundaries of what it means to be "content" such as incorporating gamification, interactivity, or creative production techniques. This is what I refer to as "[umami-flavored](https://kamranayub.com/umami?ref=awesome-deved)" content that leaves a really good taste in your mouth. Notably it does _not_ need to depend on the creator being "known". Anyone can create Awesome DevEd.
 
 # Contents
 
@@ -239,6 +239,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 - [Making things move](https://varun.ca/torsions/) - Varun Vachhar
 - [Moving along a curved path in CSS with layered animation](https://tobiasahlin.com/blog/curved-path-animations-in-css/) - Tobias Ahlin
 - [Noise in Creative Coding](https://varun.ca/noise/) - Varun Vachhar
+- [Parents vs. Owners in React] - Jules Blom, a two-part series ([1](https://julesblom.com/writing/parents-owners-data-flow)) and ([2](https://julesblom.com/writing/parents-owners-performance)).
 - [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer) - Nanda Syahrasyad. Features a custom widget to step through the tokenization process, which displays interim results.
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - Jake Archibald. Features an animated step-by-step diagram that got tons of love for in the comments. Not a "full" dataviz essay but interactive visual is umami.
 - [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction) - Bret Victor. Takes an example of designing a control system for a simple car simulation, and references it throughout the essay with visuals and interactive widgets accompanying the narrative.
@@ -248,6 +249,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 
 - [Amelia Wattenberger](https://wattenberger.com/blog) - Amelia is a data visualization and experience engineer with a blog that features awesome interactive samples and visual essays.
 - [Explorable Explanations](https://explorabl.es/) - Combining learning and play, the site is a hub of interactive and visual essays around topics, not only limited to data viz and programming.
+- [Jules Blom](https://julesblom.com/) - Frontend developer specializing in React and D4.js who writes visual essays, including walkthrough code samples, embedded quizzes, and interactive diagrams.
 - [Maggie Appleton](https://maggieappleton.com/) - Makes visual essays about UX, programming, and anthropology.
 - [Pudding.cool](https://pudding.cool) - Data viz magazine featuring many different visual essays.
 - [Worrydream](https://worrydream.com) - Bret Victor. Unique web-based site design, visual essays, and interactive demos.
