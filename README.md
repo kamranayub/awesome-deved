@@ -4,7 +4,7 @@ A collection of awesome DevEd.
 
 > DevEd is "developer education" and as part of DevRel can encompass documentation sites, community hubs, blogs, tutorials, articles, courses, talks, games, showcases, webinars, workshops, platforms, universities/academies, visual essays, interactive playgrounds, and more. Whatever helps educate developers on a technology or product.
 
-Curated by [Kamran Ayub](https://kamranayub.com) to spotlight and showcase the awesome DevEd everyone is creating.
+Curated by [Kamran Ayub](https://kamranayub.com?ref=awesome-deved) to spotlight and showcase the awesome DevEd everyone is creating.
 
 # Contributing
 
