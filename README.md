@@ -47,6 +47,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [GitHub README Project](https://github.com/readme) - The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
 - [Twilio](https://www.twilio.com/blog) - Over 2,000+ tutorials since 2008 on ways to integrate and use Twilio products.
+- [The Ankur Tyagi](https://theankurtyagi.com/) - Attracts 100K+ developers with over 50+ technical articles on developer tools and writing for engineers.
 
 # Books
 
