@@ -46,6 +46,7 @@ Part of "Higher DevEd," these are platforms that train and upskill developers (m
 - [Amelia Wattenberger](https://wattenberger.com/blog) - Amelia is a data visualization and experience engineer with a blog that features awesome interactive samples and visual essays
 - [GitHub README Project](https://github.com/readme) - The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.
 - [LogRocket](https://blog.logrocket.com) - Attracts millions of developers with over 3,000+ articles on frontend topics.
+- [Sam Rose (samwho)](https://samwho.dev/) - Creates interactive visual essays on computer science topics
 - [Twilio](https://www.twilio.com/blog) - Over 2,000+ tutorials since 2008 on ways to integrate and use Twilio products.
 - [The Ankur Tyagi](https://theankurtyagi.com/) - Attracts 100K+ developers with over 50+ technical articles on developer tools and writing for engineers.
 
@@ -229,6 +230,7 @@ _Thanks to https://github.com/yrgo/awesome-educational-games for tracking games 
 ## Individual Essays
 
 - [Advanced animation patterns with Framer Motion](https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/) - Maxime Heckel
+- [Alan Turing](https://samwho.dev/turing-machines/) - Sam Rose
 - [Build your own React](https://pomb.us/build-your-own-react/) - Rodrigo Pombo
 - [Care About What You Build](https://brandonhilkert.com/blog/care-about-what-you-build/) - Brandon Hilkert. An introspective article on loving software development even when you may not be working on the most glamorous product.
 - [CSS Cascade](https://wattenberger.com/blog/css-cascade) - Amanda Wattenbrger. The cascade is a river, and has a kayaker that paddles downriver as you scroll through the article.
